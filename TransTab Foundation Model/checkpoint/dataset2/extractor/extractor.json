@@ -1,0 +1,1 @@
+{"categorical": [], "binary": [], "numerical": ["bmi", "age", "skinthickness", "glucose", "pregnancies", "insulin", "bloodpressure", "diabetespedigreefunction"]}
