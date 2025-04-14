@@ -1,0 +1,8 @@
+age
+Hemoglobin
+Platelet_Count
+White_Blood_Cells
+Red_Blood_Cells
+Mean_Corpuscular_Volume
+Mean_Corpuscular_Hemoglobin
+Mean_Corpuscular_Hemoglobin_Concentration
